@@ -7,4 +7,8 @@ to do list:
 - change the behavior of the powerbutton
 - kill unecessary processes
 - better UI maybe?
+- a revert script
+- installation script
+- custom steam updater?
+- boothook
   
